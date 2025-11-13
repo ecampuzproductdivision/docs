@@ -14,11 +14,12 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Pengenalan",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Apa itu Portal Akademik?",
+              "Mengakses Portal Akademik",
+              "Masuk Portal Akademik",
+              "Keluar Portal Akademik"
             ]
           },
           {
@@ -71,7 +72,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "ecampuz.com",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
