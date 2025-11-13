@@ -16,10 +16,9 @@
           {
             "group": "Pengenalan",
             "pages": [
-              "Apa itu Portal Akademik?",
-              "Mengakses Portal Akademik",
-              "Masuk Portal Akademik",
-              "Keluar Portal Akademik"
+              "index",
+              "quickstart",
+              "development"
             ]
           },
           {
